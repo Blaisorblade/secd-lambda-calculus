@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Interp
 
 main :: IO ()
-main = someFunc
+main = testFact
