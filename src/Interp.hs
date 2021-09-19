@@ -1,3 +1,4 @@
+{-# LANGUAGE StrictData #-}
 module Interp where
 
 {- Quick implementation of CBV evaluation for lambda calculus + some primitives + fix. -}
