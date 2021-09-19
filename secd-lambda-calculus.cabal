@@ -11,7 +11,7 @@ homepage:       https://github.com/Blaisorblade/secd-lambda-calculus#readme
 bug-reports:    https://github.com/Blaisorblade/secd-lambda-calculus/issues
 author:         Paolo G. Giarrusso
 maintainer:     p.giarrusso@gmail.com
-copyright:      Copyright (c) 2018 Paolo G. Giarrusso
+copyright:      Copyright (c) 2021 Paolo G. Giarrusso
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple

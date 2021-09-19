@@ -4,7 +4,7 @@ github:              "Blaisorblade/secd-lambda-calculus"
 license:             BSD3
 author:              "Paolo G. Giarrusso"
 maintainer:          "p.giarrusso@gmail.com"
-copyright:           "Copyright (c) 2018 Paolo G. Giarrusso"
+copyright:           "Copyright (c) 2021 Paolo G. Giarrusso"
 
 extra-source-files:
 - README.md
