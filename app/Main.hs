@@ -3,4 +3,4 @@ module Main where
 import Interp
 
 main :: IO ()
-main = testFact
+main = print $ testFact
